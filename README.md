@@ -1,3 +1,3 @@
-## not-sayısal-sistemler
+## DERS NOTLARIM
 
-### [**- show them all** ](https://github.com/hasantezcan/not-sayisal-sistemler/blob/master/show_them_all.md)
+# Pamukkale Üniversitesi Bilgisayar Mühendisliği bölümünde okuyorum. Öğreciliğim boyunca tuttuğum ders notlarım, ödevlerim, hocalarımın bizimle paylaştığı kaynaklar bu repoda bulunmaktadır. Kendi notlarını da paylaşıp eklemek isteyen olursa çok sevinirim desteğe açığım.

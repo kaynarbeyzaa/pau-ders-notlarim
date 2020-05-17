@@ -1,0 +1,21 @@
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojResolveAssemblyReference.cache
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.Cache
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\onur.leblebici\Google Drive\Akademik\Doçentlik\Kaynaklar\Veri Yapıları\CBU Uni\Veri Yapıları\Uygulamalar\8. İkili Arama Ağacı\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.pdb
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Form1.resources
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAramaAgaci.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Lenovo\Desktop\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
+C:\Users\Lenovo\Desktop\Veri yapıları\İkiliAramaAgaci\İkiliAgac\bin\Debug\İkiliAgac.exe.config
+C:\Users\Lenovo\Desktop\Veri yapıları\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.exe
+C:\Users\Lenovo\Desktop\Veri yapıları\İkiliAramaAgaci\İkiliAgac\obj\Debug\İkiliAgac.pdb
