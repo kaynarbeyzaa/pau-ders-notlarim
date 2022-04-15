@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int girdi, tamBolenler=0;
+    cin>>girdi;
+    for(int i=1; i<girdi; i++){
+        if(girdi%i==0){
+            tamBolenler+=i;
+        }
+    }
+    if(tamBolenler==girdi)
+        cout<<"mükemmel"<<endl;
+    else
+        cout<<"mükemmel değil"<<endl;
+}
+
+
