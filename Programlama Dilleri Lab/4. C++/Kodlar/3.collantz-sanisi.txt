@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    unsigned long long int girdi;
+    int adim;
+    adim = 0;
+    cin>>girdi;
+
+    while(girdi != 1){
+        if(girdi%2==0){
+            girdi=girdi/2;
+        }
+        else{
+            girdi=3*girdi+1;
+        }
+        adim++;
+        //printf("%d, ",girdi);
+    }
+    cout<<adim<<endl;
+}
+
+

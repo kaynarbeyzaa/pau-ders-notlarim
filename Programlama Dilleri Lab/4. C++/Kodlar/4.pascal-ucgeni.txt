@@ -1,0 +1,25 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+void pascal(vector<vector<int>>&vec) {
+    for (int i = 0; i < vec.size(); ++i) {
+        for (int j = 0; j < vec.size(); ++j) {
+            if (i < j){
+                vec[i][j]=0;        //vec[i].push_back(0);
+            }
+            else if (i == j || j == 0){
+                vec[i][j]=1;        //vec[i].push_back(1);
+            }
+            else{
+                vec[i][j]=(vec[i - 1][j - 1] + vec[i - 1][j]); //vec[i].push_back(vec[i][j - 1] + vec[i - 1][j]);
+            }
+        }
+    }
+    for (std::vector<int> v: vec){
+        for (int i: v){
+            std::cout <<" "<< i;
+        }
+      std::cout << std::endl;
+    }
+}

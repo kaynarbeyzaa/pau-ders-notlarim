@@ -1,0 +1,34 @@
+
+#include <iostream>
+using namespace std;
+int main() {
+    string p1, p2;
+    cin>>p1;
+    cin>>p2;
+    if(p1=="taş"){
+        if(p2=="taş")
+            cout<<"berabere";
+        else if(p2=="kağıt")
+            cout<<"ikinci oyuncu kazandı";
+        else if(p2=="makas")
+            cout<<"birinci oyuncu kazandı";
+    }
+    else if(p1=="kağıt"){
+        if(p2=="kağıt")
+            cout<<"berabere";
+        else if(p2=="makas")
+            cout<<"ikinci oyuncu kazandı";
+        else if(p2=="taş")
+            cout<<"birinci oyuncu kazandı";
+    }
+    else if(p1=="makas"){
+        if(p2=="makas")
+            cout<<"berabere";
+        else if(p2=="taş")
+            cout<<"ikinci oyuncu kazandı";
+        else if(p2=="kağıt")
+            cout<<"birinci oyuncu kazandı";
+    }
+}
+
+
